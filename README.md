@@ -1,5 +1,4 @@
 # CosmicMuResolution
-=====================
 
 ## Selection
 To apply the selection over the Data or MC samples, simply run:
