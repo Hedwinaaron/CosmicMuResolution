@@ -3,7 +3,7 @@
 ## Selection
 To apply the selection over the Data or MC samples, simply run:
 
-    python3 dGlobal-mu_sel.py
+    root -q -b DGM_sel.C
 
 This will generate a ROOT file named either `Res_hist_Data.root` or `Res_hist_MC.root`, depending on the option specified in the code.
 
