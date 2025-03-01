@@ -9,7 +9,7 @@ This will generate a ROOT file named either `Cosmics_muons_[data type]_[Muon typ
 The `[Data type]` can be `DATA` or `MC` and is specified here:
 https://github.com/Hedwinaaron/CosmicMuResolution/blob/af11f4074f2fbc550810ac6a8c441f435de4c9eb/DGM_sel.C#L29
 This determines which files will be read based on the selected option. The list of files for `DATA` and `MC` can be modified here:
-https://github.com/Hedwinaaron/CosmicMuResolution/blob/af11f4074f2fbc550810ac6a8c441f435de4c9eb/DGM_sel.C#L70C4-L82C6
+https://github.com/Hedwinaaron/CosmicMuResolution/blob/af11f4074f2fbc550810ac6a8c441f435de4c9eb/DGM_sel.C#L70-L82
 The `[Muon type]` can be `DGL` or `DSA` and it is specified here:
 https://github.com/Hedwinaaron/CosmicMuResolution/blob/af11f4074f2fbc550810ac6a8c441f435de4c9eb/DGM_sel.C#L31
 This determines if the muons used are Displaced global muons `[DGL]`, or standalone muons `[DSA]`.
